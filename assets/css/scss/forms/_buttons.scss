@@ -1,0 +1,25 @@
+.builder-btn {
+  border: 1px solid #053d94;
+  text-transform: capitalize;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  padding: 10px 25px;
+  transition: all 0.3s ease-in-out;
+  outline: 0;
+  -webkit-appearance: none;
+  border-radius: 40px;
+  background: #053d94;
+  color: #fff;
+  &:hover {
+    background: #062367;
+    color: #fff;
+    border: 1px solid #062367;
+  }
+}
+
+.readmore {
+  padding: 5px 15px;
+  background: #fff;
+  color: #053d94;
+}

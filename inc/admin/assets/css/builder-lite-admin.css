@@ -1,0 +1,46 @@
+#wp-admin-bar-builder-lite .ab-icon:before,
+#toplevel_page_builder_lite .wp-menu-image:before,
+[class^="bul-icon-"],
+[class*=" bul-icon-"] {
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#wp-admin-bar-builder-lite .ab-icon:before,
+#toplevel_page_builder_lite .wp-menu-image:before,
+.bul-icon-logo:before {
+    content: "\e900" !important;
+}
+
+#side-sortables #builder_lite_settings_meta_box select {
+    min-width: 100%;
+}
+
+#normal-sortables #builder_lite_settings_meta_box select {
+    min-width: 200px;
+}
+
+.customize-control {
+    position: relative;
+}
+
+.customize-control .bul-control-tooltip {
+    position: absolute;
+    top: 6px;
+    right: 0;
+}
+
+.customize-control.customize-control-bul-divider .bul-control-tooltip {
+    position: absolute;
+    top: auto;
+    bottom: 3px;
+    right: 0;
+}

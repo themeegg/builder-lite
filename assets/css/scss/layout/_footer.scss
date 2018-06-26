@@ -1,0 +1,141 @@
+footer#colophon.site-footer {
+	background: url(../images/footer.jpg);
+	background-size: cover;
+	position: relative;
+	color: $white-color;
+	font-weight: 300;
+	p {
+		color:$white-color;
+	}
+	.footer-inner {
+		background: rgba(13, 55, 140, 0.5);
+		padding-top: 50px;
+		@include breakpoint(small) {
+			padding-top: 20px;
+		}
+	}
+	li {
+		list-style: none;
+	}
+	.widget {
+		margin: auto;
+		border: none;
+		padding: auto;
+		margin-bottom: none;
+		li {
+			border-bottom: none;
+			list-style: none;
+		}
+	}
+
+	&:after {
+		display: block;
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		bottom: 0;
+		background: rgba(12, 24, 43, 0.6);
+	}
+	a {
+		color: $white-color;
+		&:hover {
+			color: $primary-color;
+		}
+	}
+	.container {
+		position: relative;
+		z-index: 1;
+	}
+	.top-footer {
+		h3 {
+			font-size: 22px;
+			margin-bottom: 20px;
+			color: $light-blue;
+			&:after {
+				display: block;
+				content: '';
+				width: 50px;
+				height: 2px;
+				background: $light-blue;
+				margin-top: 20px;
+			}
+		}
+		@include breakpoint(extrasmall) {
+			.col-xs-6 {
+				width: 100%;
+			}
+		}
+	}
+	i {
+		color: $primary-color;
+		display: inline-block;
+	}
+	.link {
+		@include breakpoint(small) {
+			margin-bottom: 50px;
+		}
+		li {
+			margin-bottom: 15px;
+
+			i {
+				margin-left: 15px;
+			}
+		}
+	}
+	.cont-links {
+		li {
+			margin-bottom: 15px;
+			line-height: 1.5;
+			&:after {
+				display: block;
+				content: '';
+				clear: both;
+			}
+		}
+		i {
+			float: left;
+			width: 25px;
+		}
+		.foot-detail {
+			float: right;
+			display: inline-block;
+			width: calc(100% - 30px);
+		}
+	}
+	.footer-bottom {
+		background: #212c40;
+		padding: 30px 0;
+		margin-top: 50px;
+		line-height: 1.5;
+		h2 {
+			margin: 0;
+			font-weight: normal;
+			font-size: 22px;
+		}
+		p {
+			margin: 0;
+			@include breakpoint(small) {
+				margin-top: 10px;
+			}
+		}
+		.row {
+			div[class^='col-']:first-of-type {
+				float: right;
+				text-align: right;
+				@include breakpoint(small) {
+					float: none;
+					text-align: center;
+				}
+			}
+			div[class^='col-']:last-of-type {
+				float: left;
+				@include breakpoint(small) {
+					float: none;
+					text-align: center;
+				}
+			}
+		}
+	}
+}
