@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.6" created="2018-06-27 10:36" -->
+<!-- generator="WordPress/4.9.6" created="2018-06-27 11:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Builder Lite - Business Demo</title>
 	<link>https://demo.themeegg.com/themes/builder-lite/business</link>
 	<description>Just another Builder Lite Sites site</description>
-	<pubDate>Wed, 27 Jun 2018 10:36:39 +0000</pubDate>
+	<pubDate>Wed, 27 Jun 2018 11:31:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.themeegg.com/themes/builder-lite/</wp:base_site_url>
@@ -2198,173 +2198,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Sample Page</title>
-		<link>https://demo.themeegg.com/themes/builder-lite/business/sample-page/</link>
-		<pubDate>Wed, 27 Jun 2018 10:27:08 +0000</pubDate>
-		<dc:creator><![CDATA[builder_lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
-...or something like this:
-
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
-As a new WordPress user, you should go to <a href="https://demo.themeegg.com/themes/builder-lite/business/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-27 10:27:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-27 10:27:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Home Page Default</title>
-		<link>https://demo.themeegg.com/themes/builder-lite/business/</link>
-		<pubDate>Thu, 17 May 2018 04:37:40 +0000</pubDate>
-		<dc:creator><![CDATA[builder_lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/?page_id=5</guid>
-		<description></description>
-		<content:encoded><![CDATA[https://youtu.be/cZIJ86qtXV4		
-			<h2>How to Make a Website</h2>		
-		<p>This 8 hour course will teach you all the required skills needed when designing and developing a live WordPress website, including using the advanced options of HTML and CSS.</p>		
-			<a href="#" role="button">
-						Start your Free trial
-					</a>
-				<h3>
-					Who is it for?
-				</h3>
-				<p>The course is aimed at anyone who wants to create websites on their own, and possibly work as a freelancer or employee in the field of web design and development. We cover everything, so even if you've never seen HTML code in your life, you'll be able to quickly jump in.</p>
-										<img width="572" height="555" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/study_1.jpg" alt="" srcset="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/study_1.jpg 572w, https://demo.themeegg.com/themes/builder-lite/wp-content/uploads/2018/05/study_1-300x291.jpg 300w" sizes="(max-width: 572px) 100vw, 572px" />											
-			<h3>our teaching team</h3>		
-										<img width="166" height="165" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/teacther1.png" alt="" srcset="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/teacther1.png 166w, https://demo.themeegg.com/themes/builder-lite/wp-content/uploads/2018/05/teacther1-150x150.png 150w" sizes="(max-width: 166px) 100vw, 166px" />											
-			<h2>Stella Lindley</h2>		
-			<h2>ui/ux web master</h2>		
-		<p>A strict teacher that has been teaching since the age of 16. Stella won't give you any slack, so you will have to do the very best work you've done in your life.</p>		
-							<a href="" target="_blank">
-					Facebook
-				</a>
-							<a href="" target="_blank">
-					Twitter
-				</a>
-							<a href="" target="_blank">
-					Google-plus
-				</a>
-										<img width="162" height="165" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/teacher2.jpg" alt="" />											
-			<h2>Donald Martin</h2>		
-			<h2> Computer Science</h2>		
-		<p>Donald has a PHD in both Computer Science and Design. His beginner course is a must see for any aspiring web professional who want to learn from the best.</p>		
-							<a href="" target="_blank">
-					Facebook
-				</a>
-							<a href="" target="_blank">
-					Twitter
-				</a>
-							<a href="" target="_blank">
-					Google-plus
-				</a>
-										<img width="162" height="165" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/teacher3.jpg" alt="" />											
-			<h2>Gaby Williams</h2>		
-			<h2>AI Expert</h2>		
-		<p>If there's someone who can explain anything, Gaby is the one. She teaches you not just how to do something, but why to do it this way and not the other.</p>		
-							<a href="" target="_blank">
-					Facebook
-				</a>
-							<a href="" target="_blank">
-					Twitter
-				</a>
-							<a href="" target="_blank">
-					Google-plus
-				</a>
-										<img width="570" height="498" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/study-box_1.jpg" alt="" srcset="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/study-box_1.jpg 570w, https://demo.themeegg.com/themes/builder-lite/wp-content/uploads/2018/05/study-box_1-300x262.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />											
-			<h3>Practice makes perfect</h3>		
-		<p>We know about your hectic schedule. We also know the only way you truly understand a subject is by practicing it in a real environment. This is why we've set a playground area that's full of hours of exercises, questions and challenges. It even has a gaming section. </p>		
-			<h3>The best campus facilities</h3>		
-		<p>In addition to our online classroom, we also offer an option to take part in a live classroom. It takes place in our vast campus located in Westfield, London. Here you'll be able to use the most up-to-date facilities and computer equipment.</p>		
-										<img width="570" height="498" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/library.jpg" alt="" srcset="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/library.jpg 570w, https://demo.themeegg.com/themes/builder-lite/wp-content/uploads/2018/05/library-300x262.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />											
-			<h2>Learn from the very best</h2>		
-		<p>Join our course and start building the most wanted career available today. We make sure every class is easily understood, and that all students reach the same level of expertise needed for today's hi-tech industry.</p>		
-				<h3>
-					Working hours
-				</h3>
-				<p>Monday- Thursday:8:00-18:30 Hrs <br>(Phone until 17:30 Hrs)<br>Friday - 8:00-14:00</p>
-				<h3>
-					We are here
-				</h3>
-				<p>Westfield London 2039-2041 Westfield <br>Phone:+44 20 8834 4688 <br>Fax:+44 20 8859 6598 <br>Email: info@collage.com</p>
-			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" aria-label="London Eye, London, United Kingdom"></iframe>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2018-05-17 04:37:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-05-17 04:37:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-page-default]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-			<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[{"id":"73774c0a","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":"1140"},"structure":"20","section_background":"","background_background":"classic","background_image":{"id":117,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/wp-content\/uploads\/2018\/05\/study_cover.jpg"},"background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_title":"","background_overlay_background":"classic","background_overlay_color":"#504992","background_overlay_opacity":{"unit":"px","size":0.8},"section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"200","right":"0","bottom":"200","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","background_overlay_section":"","padding_tablet":{"unit":"px","top":"90","right":"30","bottom":"90","left":"30","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false},"heading_visibility":""},"elements":[{"id":"6be508dd","elType":"column","settings":{"_column_size":50,"_inline_size":"50.702","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true}},"elements":[{"id":"5c1fb2ed","elType":"widget","settings":{"section_video":"","link":"https:\/\/youtu.be\/cZIJ86qtXV4","vimeo_link":"https:\/\/vimeo.com\/170933924","heading_youtube":"","yt_autoplay":"no","yt_rel":"no","yt_showinfo":"no","vimeo_autoplay":"no","vimeo_loop":"no","section_image_overlay":"","show_image_overlay":"no","image_overlay":{"url":"","id":""},"_section_style":"","_section_background":"","_box_shadow_box_shadow_type":"outset","_box_shadow_box_shadow":{"horizontal":12,"vertical":15,"blur":36,"spread":0,"inset":"","color":"rgba(0,0,0,0.46)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"video"}],"isInner":false},{"id":"2491f778","elType":"column","settings":{"_column_size":50,"_inline_size":"49.298","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"80","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true}},"elements":[{"id":"6c8a94f2","elType":"widget","settings":{"section_title":"","title":"How to Make a Website","link":{"is_external":"","url":""},"size":"large","section_title_style":"","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"54"},"typography_font_family":"Playfair Display","typography_line_height":{"unit":"em","size":1.1},"typography_letter_spacing":{"unit":"px","size":-1.4},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":37},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"660d8e54","elType":"widget","settings":{"section_editor":"","editor":"<p>This\u00a08 hour course will teach you all the required skills needed when designing and developing a live\u00a0WordPress website, including using the advanced options of\u00a0HTML and CSS.<\/p>","section_style":"","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_font_family":"Poppins","typography_font_weight":"100","typography_line_height":{"unit":"em","size":1.9},"_section_style":"","_padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"},{"id":"37602f45","elType":"widget","settings":{"section_button":"","text":"Start your Free trial","link":{"is_external":"","url":"#"},"align":"left","section_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_family":"Poppins","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":1.5},"background_color":"#22b3a4","border_border":"solid","border_color":"#22b3a4","border_radius":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"text_padding":{"unit":"px","top":"15","right":"50","bottom":"15","left":"50","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"rgba(0,0,0,0)","button_hover_border_color":"#ffffff","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"63d32e4a","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"content_position":"middle","structure":"20","section_background":"","background_background":"classic","background_color":"#ffffff","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"150","right":"0","bottom":"150","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","background_overlay_section":"","padding_tablet":{"unit":"px","top":"75","right":"0","bottom":"75","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"30","bottom":"60","left":"30","isLinked":false},"reverse_order_mobile":"reverse-mobile","heading_visibility":""},"elements":[{"id":"1ab0746c","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"7150b5f4","elType":"widget","settings":{"section_icon":"","view":"stacked","icon":"fa fa-connectdevelop","title_text":"Who is it for?","description_text":"The course is aimed at anyone who wants to create websites on their own, and possibly work as a freelancer or employee in the field of web design and development. We cover everything, so even if you've never seen HTML code in your life, you'll be able to quickly jump in.","link":{"is_external":"","url":""},"position":"left","section_style_icon":"","primary_color":"#504992","icon_space":{"unit":"px","size":69},"icon_size":{"unit":"px","size":"23"},"icon_padding":{"unit":"px","size":20},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"section_hover":"","section_style_content":"","heading_title":"","title_bottom_space":{"unit":"px","size":58},"title_bottom_space_mobile":{"unit":"px","size":14},"title_color":"#474545","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":41},"title_typography_font_size_tablet":{"unit":"px","size":32},"title_typography_font_size_mobile":{"unit":"px","size":37},"title_typography_line_height":{"unit":"em","size":0.5},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":1.2},"title_typography_letter_spacing":{"unit":"px","size":-0.8},"heading_description":"","description_color":"#726f6f","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":"16"},"description_typography_font_size_tablet":{"unit":"px","size":"15"},"description_typography_font_size_mobile":{"unit":"px","size":"14"},"description_typography_font_family":"Poppins","description_typography_line_height":{"unit":"em","size":2.2},"description_typography_line_height_tablet":{"unit":"em","size":1.8},"description_typography_line_height_mobile":{"unit":"em","size":"1.9"},"_section_style":"","_padding_mobile":{"unit":"px","top":"35","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"f4213d8","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"16a474d1","elType":"widget","settings":{"section_image":"","image":{"id":118,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/wp-content\/uploads\/2018\/05\/study_1.jpg"},"align":"right","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":"85"},"image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"161f7cd5","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"section_background":"","background_background":"classic","background_color":"#e3e4e8","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"15","right":"0","bottom":"140","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","background_overlay_section":"","padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false},"heading_visibility":""},"elements":[{"id":"711654e1","elType":"column","settings":{"_column_size":100,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"ac2f516","elType":"widget","settings":{"section_title":"","title":"our teaching team","link":{"is_external":"","url":""},"size":"large","header_size":"h3","align":"center","section_title_style":"","title_color":"#474545","typography_typography":"custom","typography_font_size":{"unit":"px","size":"41"},"typography_font_family":"Playfair Display","typography_text_transform":"capitalize","typography_line_height":{"unit":"em","size":"3.5"},"typography_letter_spacing":{"unit":"px","size":-0.1},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_mobile":{"unit":"px","size":24},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"79e3f303","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"gap":"no","column_position_inner":"middle","content_position_inner":"","structure":"30","section_background":"","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","responsive_description":"","background_overlay_section":"","padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"heading_visibility":""},"elements":[{"id":"682d8f77","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","margin":{"unit":"px","top":"0","right":"30","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"50","right":"25","bottom":"50","left":"25","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","margin_tablet":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false}},"elements":[{"id":"29b4ea95","elType":"widget","settings":{"section_image":"","image":{"id":119,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/wp-content\/uploads\/2018\/05\/teacther1.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"image_border_width":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_border_radius":{"unit":"px","top":"100","right":"100","bottom":"100","left":"100","isLinked":true},"image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"image"},{"id":"6bbcfbf0","elType":"widget","settings":{"section_title":"","title":"Stella Lindley","link":{"is_external":"","url":""},"size":"large","align":"center","section_title_style":"","title_color":"#474545","typography_typography":"custom","typography_font_size":{"unit":"px","size":"25"},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"4d19a07a","elType":"widget","settings":{"section_title":"","title":"ui\/ux web master","link":{"is_external":"","url":""},"size":"large","align":"center","section_title_style":"","title_color":"#b6baba","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_family":"Playfair Display","typography_letter_spacing":{"unit":"px","size":"1"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"2a99dacb","elType":"widget","settings":{"section_editor":"","editor":"<p>A strict teacher that has been teaching since the age of 16. Stella won't give you any slack, so you will have to do the very best work you've done in your life.<\/p>","section_style":"","align":"center","text_color":"#5e5d5d","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_font_family":"Poppins","typography_line_height":{"unit":"em","size":"2"},"_section_style":"","_padding":{"unit":"px","top":"20","right":"0","bottom":"5","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"},{"id":"446e7682","elType":"widget","settings":{"section_social_icon":"","social_icon_list":[{"social":"fa fa-facebook","link":{"url":"","is_external":"true","nofollow":""},"_id":"1q7inly"},{"social":"fa fa-twitter","link":{"url":"","is_external":"true","nofollow":""},"_id":"qw9z55k"},{"social":"fa fa-google-plus","link":{"url":"","is_external":"true","nofollow":""},"_id":"1kfdigf"}],"shape":"circle","section_social_style":"","icon_color":"custom","icon_primary_color":"#504992","icon_secondary_color":"#ffffff","icon_size":{"unit":"px","size":"14"},"icon_padding":{"unit":"em","size":0.8},"icon_spacing":{"unit":"px","size":"15"},"_section_style":"","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center"},"elements":[],"widgetType":"social-icons"}],"isInner":true},{"id":"13024f84","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","margin":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"padding":{"unit":"px","top":"50","right":"25","bottom":"50","left":"25","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","margin_tablet":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false}},"elements":[{"id":"79a5aa7d","elType":"widget","settings":{"section_image":"","image":{"id":120,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/wp-content\/uploads\/2018\/05\/teacher2.jpg"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"image_border_width":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_border_radius":{"unit":"px","top":"100","right":"100","bottom":"100","left":"100","isLinked":true},"image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"image"},{"id":"4452747f","elType":"widget","settings":{"section_title":"","title":"Donald Martin","link":{"is_external":"","url":""},"size":"large","align":"center","section_title_style":"","title_color":"#474545","typography_typography":"custom","typography_font_size":{"unit":"px","size":"25"},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"24c5c415","elType":"widget","settings":{"section_title":"","title":" Computer Science","link":{"is_external":"","url":""},"size":"large","align":"center","section_title_style":"","title_color":"#b6baba","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_family":"Playfair Display","typography_letter_spacing":{"unit":"px","size":"1"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"653fc0d4","elType":"widget","settings":{"section_editor":"","editor":"<p>Donald has a PHD in both Computer Science and Design. His beginner course is a must see for any aspiring web professional who want to learn from the best.<\/p>","section_style":"","align":"center","text_color":"#5e5d5d","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_font_family":"Poppins","typography_line_height":{"unit":"em","size":"2"},"_section_style":"","_padding":{"unit":"px","top":"20","right":"0","bottom":"5","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"},{"id":"6029de71","elType":"widget","settings":{"section_social_icon":"","social_icon_list":[{"social":"fa fa-facebook","link":{"url":"","is_external":"true","nofollow":""},"_id":"lf5yt4c"},{"social":"fa fa-twitter","link":{"url":"","is_external":"true","nofollow":""},"_id":"01xie82"},{"social":"fa fa-google-plus","link":{"url":"","is_external":"true","nofollow":""},"_id":"grhvqhn"}],"shape":"circle","section_social_style":"","icon_color":"custom","icon_primary_color":"#504992","icon_secondary_color":"#ffffff","icon_size":{"unit":"px","size":"14"},"icon_padding":{"unit":"em","size":0.8},"icon_spacing":{"unit":"px","size":"15"},"_section_style":"","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center"},"elements":[],"widgetType":"social-icons"}],"isInner":true},{"id":"2994e7e3","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"padding":{"unit":"px","top":"50","right":"25","bottom":"50","left":"25","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"52e80875","elType":"widget","settings":{"section_image":"","image":{"id":121,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/wp-content\/uploads\/2018\/05\/teacher3.jpg"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"image_border_width":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_border_radius":{"unit":"px","top":"100","right":"100","bottom":"100","left":"100","isLinked":true},"image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"image"},{"id":"799629e6","elType":"widget","settings":{"section_title":"","title":"Gaby Williams","link":{"is_external":"","url":""},"size":"large","align":"center","section_title_style":"","title_color":"#474545","typography_typography":"custom","typography_font_size":{"unit":"px","size":"25"},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"9f4074","elType":"widget","settings":{"section_title":"","title":"AI Expert","link":{"is_external":"","url":""},"size":"large","align":"center","section_title_style":"","title_color":"#b6baba","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_family":"Playfair Display","typography_letter_spacing":{"unit":"px","size":"1"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"1dc44016","elType":"widget","settings":{"section_editor":"","editor":"<p>If there's someone who can explain anything, Gaby is the one. She\u00a0teaches\u00a0you not just how to do something, but why to do it this way and not the other.<\/p>","section_style":"","align":"center","text_color":"#5e5d5d","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_font_family":"Poppins","typography_line_height":{"unit":"em","size":"2"},"_section_style":"","_padding":{"unit":"px","top":"20","right":"0","bottom":"5","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"},{"id":"5314c03","elType":"widget","settings":{"section_social_icon":"","social_icon_list":[{"social":"fa fa-facebook","link":{"url":"","is_external":"true","nofollow":""},"_id":"1j7enrh"},{"social":"fa fa-twitter","link":{"url":"","is_external":"true","nofollow":""},"_id":"mw0ffet"},{"social":"fa fa-google-plus","link":{"url":"","is_external":"true","nofollow":""},"_id":"39ofihx"}],"shape":"circle","section_social_style":"","icon_color":"custom","icon_primary_color":"#504992","icon_secondary_color":"#ffffff","icon_size":{"unit":"px","size":"14"},"icon_padding":{"unit":"em","size":0.8},"icon_spacing":{"unit":"px","size":"15"},"_section_style":"","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center"},"elements":[],"widgetType":"social-icons"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"6a0d4233","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"gap":"no","content_position":"middle","structure":"20","section_background":"","background_background":"classic","background_color":"#ffffff","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"150","right":"0","bottom":"0","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","background_overlay_section":"","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"heading_visibility":""},"elements":[{"id":"28768426","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"5ff18158","elType":"widget","settings":{"section_image":"","image":{"id":122,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/wp-content\/uploads\/2018\/05\/study-box_1.jpg"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"5561e8ba","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","background_background":"classic","background_color":"#f5f5f5","border_width":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"border_color":"#e3e4e8","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true}},"elements":[{"id":"3ab1744d","elType":"widget","settings":{"section_icon":"","icon":"fa fa-graduation-cap","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#22b3a4","icon_padding":{"unit":"em","size":0.5},"section_hover":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center"},"elements":[],"widgetType":"icon"},{"id":"5368cd62","elType":"widget","settings":{"section_title":"","title":"Practice makes perfect","link":{"is_external":"","url":""},"size":"large","header_size":"h3","align":"center","section_title_style":"","title_color":"#474545","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Playfair Display","typography_letter_spacing":{"unit":"px","size":-1},"_section_style":"","_padding":{"unit":"px","top":"15","right":"0","bottom":"20","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":"25"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"19c73a1a","elType":"widget","settings":{"section_editor":"","editor":"<p>We know about your hectic schedule. We also know the only way you truly understand a subject is by practicing it in a real environment. This is why we've set a playground area that's full of hours of exercises, questions and challenges. It\u00a0even has a gaming section.\u00a0<\/p>","section_style":"","align":"center","text_color":"#898181","typography_typography":"custom","typography_font_size":{"unit":"px","size":"15"},"typography_font_family":"Poppins","typography_line_height":{"unit":"em","size":"2"},"_section_style":"","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":"13"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"7d581353","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":"1140"},"gap":"no","content_position":"middle","structure":"20","section_background":"","background_background":"classic","background_color":"#ffffff","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"0","bottom":"150","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","background_overlay_section":"","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"reverse_order_mobile":"reverse-mobile","heading_visibility":""},"elements":[{"id":"52be3888","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","background_background":"classic","background_color":"#f5f5f5","border_width":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"border_color":"#e3e4e8","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true}},"elements":[{"id":"29094df3","elType":"widget","settings":{"section_icon":"","icon":"fa fa-fort-awesome","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#22b3a4","icon_padding":{"unit":"em","size":0.5},"section_hover":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center"},"elements":[],"widgetType":"icon"},{"id":"39351704","elType":"widget","settings":{"section_title":"","title":"The best campus facilities","link":{"is_external":"","url":""},"size":"large","header_size":"h3","align":"center","section_title_style":"","title_color":"#474545","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Playfair Display","typography_letter_spacing":{"unit":"px","size":-1},"_section_style":"","_padding":{"unit":"px","top":"15","right":"0","bottom":"20","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":"25"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"74d03749","elType":"widget","settings":{"section_editor":"","editor":"<p>In addition to our online classroom, we also offer an option to take part in a live classroom. It\u00a0takes place in our vast campus located in Westfield, London. Here you'll be able to use the most up-to-date facilities and computer equipment.<\/p>","section_style":"","align":"center","text_color":"#898181","typography_typography":"custom","typography_font_size":{"unit":"px","size":"15"},"typography_font_family":"Poppins","typography_line_height":{"unit":"em","size":"2"},"_section_style":"","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":"13"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"41e9d7c3","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"24f212f4","elType":"widget","settings":{"section_image":"","image":{"id":123,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/wp-content\/uploads\/2018\/05\/library.jpg"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"773064d","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"section_background":"","background_background":"classic","background_image":{"id":124,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/wp-content\/uploads\/2018\/05\/study-footer.jpg"},"background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"85","right":"0","bottom":"120","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","background_overlay_section":"","padding_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"heading_visibility":""},"elements":[{"id":"2f258719","elType":"column","settings":{"_column_size":100,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"69608976","elType":"widget","settings":{"section_title":"","title":"Learn from the very best","link":{"is_external":"","url":""},"size":"large","align":"center","section_title_style":"","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"40"},"typography_font_family":"Playfair Display","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"2a17673b","elType":"widget","settings":{"section_editor":"","editor":"<p>Join our course and start building the most\u00a0wanted career available today. We make sure every class is easily understood, and that all students reach the same level of expertise needed for today's hi-tech industry.<\/p>","section_style":"","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_font_family":"Poppins","typography_font_weight":"100","typography_line_height":{"unit":"em","size":"2"},"_section_style":"","_padding":{"unit":"px","top":"10","right":"0","bottom":"30","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_mobile":{"unit":"px","size":"15"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"},{"id":"61df7ad4","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"gap":"no","column_position_inner":"middle","content_position_inner":"","structure":"20","section_background":"","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","responsive_description":"","background_overlay_section":"","heading_visibility":""},"elements":[{"id":"4edd2b50","elType":"column","settings":{"_column_size":50,"_inline_size":"45.446","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"76fdbdd0","elType":"widget","settings":{"section_icon":"","icon":"fa fa-clock-o","title_text":"Working hours","description_text":"Monday- Thursday:8:00-18:30 Hrs <br>(Phone until 17:30 Hrs)<br>Friday - 8:00-14:00","link":{"is_external":"","url":""},"position":"left","section_style_icon":"","primary_color":"#504992","icon_padding":{"unit":"em","size":0.5},"section_hover":"","section_style_content":"","heading_title":"","title_color":"#ffffff","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"30"},"title_typography_font_family":"Playfair Display","title_typography_line_height":{"unit":"em","size":"0"},"title_typography_letter_spacing":{"unit":"px","size":-0.5},"heading_description":"","description_color":"#ffffff","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":"15"},"description_typography_font_family":"Poppins","description_typography_font_weight":"100","_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"_padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":false},"_section_background":"","_background_background":"classic","_background_color":"rgba(255,255,255,0.25)","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","title_bottom_space":{"unit":"px","size":"35"},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"icon-box"},{"id":"2db2fdf6","elType":"widget","settings":{"section_icon":"","icon":"fa fa-map-marker","title_text":"We are here","description_text":"Westfield London 2039-2041 Westfield <br>Phone:+44 20 8834 4688 <br>Fax:+44 20 8859 6598 <br>Email: info@collage.com","link":{"is_external":"","url":""},"position":"left","section_style_icon":"","primary_color":"#504992","icon_padding":{"unit":"em","size":0.5},"section_hover":"","section_style_content":"","heading_title":"","title_color":"#ffffff","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"30"},"title_typography_font_family":"Playfair Display","title_typography_line_height":{"unit":"em","size":"0"},"title_typography_letter_spacing":{"unit":"px","size":-0.5},"heading_description":"","description_color":"#ffffff","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":"15"},"description_typography_font_family":"Poppins","description_typography_font_weight":"100","_section_style":"","_padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":false},"_section_background":"","_background_background":"classic","_background_color":"rgba(255,255,255,0.25)","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","title_bottom_space":{"unit":"px","size":"35"},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"icon-box"}],"isInner":true},{"id":"ddcdc67","elType":"column","settings":{"_column_size":50,"_inline_size":"54.554","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"40","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"5c3d7ea4","elType":"widget","settings":{"section_map":"","address":"London Eye, London, United Kingdom","height":{"unit":"px","size":"440"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"google_maps"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0.4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_e63d2d0c66ba4b799c47127704e445ec]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/kB4U67tiQLA?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_e63d2d0c66ba4b799c47127704e445ec]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1526539937]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_e9f86bd68d206a4f63f4f9339cbf9017]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="640" height="480" src="https://www.youtube.com/embed/LFkrBtQOOH4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_e9f86bd68d206a4f63f4f9339cbf9017]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1526542113]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_13e4e7e5b38e99a7f959a8de358f0dee]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/cZIJ86qtXV4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_13e4e7e5b38e99a7f959a8de358f0dee]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1526542308]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Home</title>
 		<link>https://demo.themeegg.com/themes/builder-lite/business/2018/05/17/home/</link>
 		<pubDate>Thu, 17 May 2018 06:20:10 +0000</pubDate>
@@ -2812,6 +2645,593 @@ As a new WordPress user, you should go to <a href="https://demo.themeegg.com/the
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>builder-lite</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/2018/05/24/builder-lite/</link>
+		<pubDate>Thu, 24 May 2018 04:27:30 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/builder-lite/</guid>
+		<description></description>
+		<content:encoded><![CDATA[header .custom-logo-link img {
+    width: 250px;
+    height: auto;
+     
+}
+header #logo-alt img {
+    height: auto;
+	max-height:auto;
+    margin-top: 15px;
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>146</wp:post_id>
+		<wp:post_date><![CDATA[2018-05-24 04:27:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-05-24 04:27:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[builder-lite]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>logo-2.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/logo-2-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:55 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/logo-2.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>154</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo-2-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/logo-2.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/logo-2.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:131;s:6:"height";i:160;s:4:"file";s:18:"2018/06/logo-2.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"logo-2-131x150.png";s:5:"width";i:131;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[762dd641594ff21e0aa8c0338038394f981a2c3b]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Untitled-1-1.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/untitled-1-1-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:55 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/Untitled-1-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>155</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[untitled-1-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/Untitled-1-1.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/Untitled-1-1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:897;s:4:"file";s:24:"2018/06/Untitled-1-1.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"Untitled-1-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:24:"Untitled-1-1-300x168.png";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:24:"Untitled-1-1-768x431.png";s:5:"width";i:768;s:6:"height";i:431;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:25:"Untitled-1-1-1024x574.png";s:5:"width";i:1024;s:6:"height";i:574;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ec865335cbd9bc67237e927310b6e167045a85ff]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>smart-watch1-1.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/smart-watch1-1-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/smart-watch1-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>156</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[smart-watch1-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/smart-watch1-1.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/smart-watch1-1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:599;s:6:"height";i:674;s:4:"file";s:26:"2018/06/smart-watch1-1.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"smart-watch1-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:26:"smart-watch1-1-267x300.png";s:5:"width";i:267;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[60224da1875272bfe3d77ab5a03c84d22f84cbff]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>circle-1.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/circle-1-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>157</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[circle-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle-1.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/circle-1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:189;s:6:"height";i:189;s:4:"file";s:20:"2018/06/circle-1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"circle-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[22561270be48d3b439196cec3c724249c2f85bd5]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>circle2-1.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/circle2-1-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle2-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>158</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[circle2-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle2-1.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/circle2-1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:189;s:6:"height";i:189;s:4:"file";s:21:"2018/06/circle2-1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"circle2-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[05ebda0248f154c2fe773df1e0cc59bc3ad90cbc]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>circle3-1.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/circle3-1-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle3-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>159</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[circle3-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle3-1.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/circle3-1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:189;s:6:"height";i:189;s:4:"file";s:21:"2018/06/circle3-1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"circle3-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[27130b1dcbc43569563bd43c7d855e9107e6cff5]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cover-pic-1.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/cover-pic-1-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/cover-pic-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>160</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cover-pic-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/cover-pic-1.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/cover-pic-1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:659;s:4:"file";s:23:"2018/06/cover-pic-1.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"cover-pic-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:23:"cover-pic-1-300x124.png";s:5:"width";i:300;s:6:"height";i:124;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:23:"cover-pic-1-768x316.png";s:5:"width";i:768;s:6:"height";i:316;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:24:"cover-pic-1-1024x422.png";s:5:"width";i:1024;s:6:"height";i:422;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2b39e7678327c4f5692c09e932d161f2f4431217]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>snycy.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/snycy-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:58 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/snycy.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>161</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[snycy-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/snycy.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/snycy.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:200;s:6:"height";i:150;s:4:"file";s:17:"2018/06/snycy.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"snycy-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1ea185047baa81d608da5007f3298ad41207ff72]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>quest.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/quest-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:58 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/quest.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>162</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[quest-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/quest.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/quest.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:200;s:6:"height";i:150;s:4:"file";s:17:"2018/06/quest.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"quest-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5eb7a49c9ec63707a7581c15ec7eb59bafa03246]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>masso.png</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/masso-png/</link>
+		<pubDate>Wed, 27 Jun 2018 11:19:58 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/masso.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>163</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 11:19:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 11:19:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[masso-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/masso.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/06/masso.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:200;s:6:"height";i:150;s:4:"file";s:17:"2018/06/masso.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"masso-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[d04946c352baeb1f704b4cacd0b72d7fd783043a]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Hello world!</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/2018/06/27/hello-world/</link>
+		<pubDate>Wed, 27 Jun 2018 10:27:08 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to <a href="http://demo.themeegg.com/themes/builder-lite/">Builder Lite Sites</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 10:27:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 10:27:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>http://demo.themeegg.com/themes/builder-lite/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2018-06-27 10:27:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2018-06-27 10:27:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Sample Page</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/sample-page/</link>
+		<pubDate>Wed, 27 Jun 2018 10:27:08 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="https://demo.themeegg.com/themes/builder-lite/business/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-27 10:27:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-27 10:27:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home Page Default</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/</link>
+		<pubDate>Thu, 17 May 2018 04:37:40 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/?page_id=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>Technology</h3>		
+			<h3>Schedule on the fly</h3>		
+		<p>Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.</p>		
+			<h3>Save everything to dropbox</h3>		
+		<p>Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.</p>		
+			<h3>Take notes and reminders</h3>		
+		<p>consectetur adipiscing elit. Sed neque mauris, porta id arcu ac, sagittis auctor ante.</p>		
+			<h3>Take control over messages</h3>		
+		<p>blandit porta, viverra nec metus. Maecenas in magna ullamcorper dolor commodo.</p>		
+			<h3>Our experts</h3>		
+										<img width="189" height="189" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle-1.png" alt="" srcset="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle-1.png 189w, https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle-1-150x150.png 150w" sizes="(max-width: 189px) 100vw, 189px" />											
+		<p>Aenean nulla massa, feugiat nec blandit porta, viverra nec metus. Maecenas in magna ullamcorper dolor.</p>		
+			<h3>linda mccartney</h3>		
+										<img width="189" height="189" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle2-1.png" alt="" srcset="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle2-1.png 189w, https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle2-1-150x150.png 150w" sizes="(max-width: 189px) 100vw, 189px" />											
+		<p>consectetur adipiscing elit. Sed neque mauris, porta id arcu ac, sagittis auctor ante monke di paserstion.</p>		
+			<h3>JOHN ELOWER</h3>		
+										<img width="189" height="189" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle3-1.png" alt="" srcset="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle3-1.png 189w, https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/circle3-1-150x150.png 150w" sizes="(max-width: 189px) 100vw, 189px" />											
+		<p>Nulla faucibus commodo Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.</p>		
+			<h3>victor garberl</h3>		
+		"My day is usually quite hectic. Before I used Taskraft I had to juggle all my various tasks in my mind throughout the day.
+Taskraft helped me get more organized, and now I simply get more done."		
+			<h3>Our Services</h3>		
+			<h3>Responsive design</h3>		
+		<p>Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.</p>		
+			<h3>Device friendly theme</h3>		
+		<p>Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.</p>		
+			<h3>One click demo import</h3>		
+		<p>consectetur adipiscing elit. Sed neque mauris, porta id arcu ac, sagittis auctor ante.</p>		
+			<h3>Awesome theme support</h3>		
+		<p>blandit porta, viverra nec metus. Maecenas in magna ullamcorper dolor commodo.</p>		
+			<h2>Our clients</h2>		
+										<img width="200" height="150" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/snycy.png" alt="" />											
+										<img width="200" height="150" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/x.venox_.png" alt="" />											
+										<img width="200" height="150" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/quest.png" alt="" />											
+										<img width="200" height="150" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/geo.png" alt="" />											
+										<img width="200" height="150" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/madrin.png" alt="" />											
+										<img width="200" height="150" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/digit.png" alt="" />											
+										<img width="200" height="150" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/05/mapmaster.png" alt="" />											
+										<img width="200" height="150" src="https://demo.themeegg.com/themes/builder-lite/business/wp-content/uploads/sites/2/2018/06/masso.png" alt="" />											
+			<h3>About us</h3>		
+		<p>Phasellus sodal dictum dolor quis fringilla. Nunc accumsan velit sit amet enim maximus solsodales.</p>		
+			<h3>Our mission</h3>		
+		<p>Etiam fringilla lobortis risus, sed accumsan enim rutrum vel. Aenean iaculis magna libero, at blandit augue rhoncus sed.</p>		
+			<h3>Our offer</h3>		
+					<ul>
+							<li >
+										sed accumsan enim rutrum 
+									</li>
+								<li >
+										Etiam fringilla lobortis 
+									</li>
+								<li >
+										Aenean iaculis magna 
+									</li>
+						</ul>
+			<h2>Frequently Asked Questions</h2>		
+			<h4>Can I edit the files ?</h4>		
+		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+			<h4>Is it Layered ?</h4>		
+		<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>		
+			<h4>How can I edit the masks ?<br></h4>		
+		<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>		
+			<h4>What do I need to open the files ?<br></h4>		
+		<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>		
+			<h4>How can I edit smart objects ?<br></h4>		
+		<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation</p>		
+			<h4>Is the font free ?</h4>		
+		<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2018-05-17 04:37:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-05-17 04:37:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-page-default]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[{"id":"1aaf670","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":"1140"},"height":"min-height","custom_height":{"unit":"px","size":"650"},"structure":"20","section_background":"","background_background":"classic","background_image":{"id":156,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/smart-watch1-1.png"},"background_position":"bottom left","background_repeat":"no-repeat","background_overlay_title":"","background_overlay_background":"classic","background_overlay_opacity":{"unit":"px","size":1},"section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"100","right":"0","bottom":"0","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"padding_tablet":{"unit":"px","top":"70","right":"0","bottom":"650","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"650","left":"0","isLinked":false},"heading_visibility":""},"elements":[{"id":"6129bb70","elType":"column","settings":{"_column_size":50,"_inline_size":"38.667","section_style":"","background_background":"classic","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[],"isInner":false},{"id":"781d88c9","elType":"column","settings":{"_column_size":50,"_inline_size":"61.334","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"5ac304de","elType":"widget","settings":{"section_title":"","title":"Technology","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"31"},"typography_font_family":"Montserrat Alternates","_section_style":"","_padding":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"29d1d24","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":912},"gap":"wider","structure":"20","section_background":"","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","responsive_description":"","column_position_inner":"middle","content_position_inner":"","heading_visibility":""},"elements":[{"id":"5c5b37c9","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","background_background":"classic","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"2e12e455","elType":"widget","settings":{"section_icon":"","icon":"fa fa-calendar","link":{"is_external":"","url":""},"align":"left","section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"40"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center"},"elements":[],"widgetType":"icon"},{"id":"3a38b70c","elType":"widget","settings":{"section_title":"","title":"Schedule on the fly","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_family":"Roboto","typography_line_height":{"unit":"em","size":2},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"6b4be94f","elType":"widget","settings":{"section_editor":"","editor":"<p>Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.<\/p>","section_style":"","text_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":"17"},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"1.8"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"6ed0be33","elType":"widget","settings":{"section_icon":"","icon":"fa fa-dropbox","link":{"is_external":"","url":""},"align":"left","section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"40"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_padding":{"unit":"px","top":"020","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"icon"},{"id":"1024a267","elType":"widget","settings":{"section_title":"","title":"Save everything to dropbox","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_family":"Roboto","typography_line_height":{"unit":"em","size":2},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"2451c981","elType":"widget","settings":{"section_editor":"","editor":"<p>Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.<\/p>","section_style":"","text_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":"17"},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"1.8"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"7935c4bb","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","border_radius":{"unit":"px","top":"0","right":"50","bottom":"0","left":"0","isLinked":false},"box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"51a00808","elType":"widget","settings":{"section_icon":"","icon":"fa fa-commenting-o","link":{"is_external":"","url":""},"align":"left","section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"40"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"icon"},{"id":"3838a57","elType":"widget","settings":{"section_title":"","title":"Take notes and reminders","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_family":"Roboto","typography_line_height":{"unit":"em","size":2},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"38e62a39","elType":"widget","settings":{"section_editor":"","editor":"<p>consectetur adipiscing elit. Sed neque mauris, porta id arcu ac, sagittis auctor ante.<\/p>","section_style":"","text_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":"17"},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"1.8"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"77ffc3e3","elType":"widget","settings":{"section_icon":"","icon":"fa fa-envelope-o","link":{"is_external":"","url":""},"align":"left","section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"40"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"icon"},{"id":"44ee1168","elType":"widget","settings":{"section_title":"","title":"Take control over messages","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_family":"Roboto","typography_line_height":{"unit":"em","size":2},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"696c77a","elType":"widget","settings":{"section_editor":"","editor":"<p>blandit porta, viverra nec metus. Maecenas in magna ullamcorper dolor commodo.<\/p>","section_style":"","text_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":"17"},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"1.8"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"32219b40","elType":"section","settings":{"section_layout":"","layout":"full_width","content_width":{"unit":"px","size":1140},"section_background":"","background_background":"classic","background_color":"#2185f5","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","padding_tablet":{"unit":"px","top":"50","right":"30","bottom":"0","left":"30","isLinked":false},"heading_visibility":""},"elements":[{"id":"f6fc93","elType":"column","settings":{"_column_size":100,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"188892ea","elType":"widget","settings":{"section_title":"","title":"Our experts","link":{"is_external":"","url":""},"size":"large","header_size":"h3","align":"center","section_title_style":"","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"40"},"typography_font_family":"Montserrat Alternates","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"6ded7e1e","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":"1140"},"structure":"30","section_background":"","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"30","right":"0","bottom":"100","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","column_position_inner":"middle","content_position_inner":"","heading_visibility":""},"elements":[{"id":"7909fc8f","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"outset","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":"50","spread":0,"inset":"","color":"rgba(15,15,43,0.58)"},"section_typo":"","section_advanced":"","margin":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true},"padding":{"unit":"px","top":"60","right":"30","bottom":"60","left":"30","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","margin_tablet":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true},"margin_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"padding_tablet":{"unit":"px","top":"30","right":"20","bottom":"30","left":"20","isLinked":false}},"elements":[{"id":"24effefc","elType":"widget","settings":{"section_image":"","image":{"id":157,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/circle-1.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":"70"},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"23964f6c","elType":"widget","settings":{"section_editor":"","editor":"<p>Aenean nulla massa, feugiat nec blandit porta, viverra nec metus. Maecenas in magna ullamcorper dolor.<\/p>","section_style":"","align":"center","text_color":"#353535","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2.1},"_section_style":"","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":"14"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"134a782a","elType":"widget","settings":{"section_title":"","title":"linda mccartney","link":{"is_external":"","url":""},"size":"large","header_size":"h3","align":"center","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":17},"typography_font_weight":"600","typography_text_transform":"uppercase","_section_style":"","_padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"7a1aaacd","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"outset","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":"50","spread":0,"inset":"","color":"rgba(15,15,43,0.65)"},"section_typo":"","section_advanced":"","margin":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true},"padding":{"unit":"px","top":"60","right":"30","bottom":"60","left":"30","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","margin_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"padding_tablet":{"unit":"px","top":"30","right":"20","bottom":"30","left":"20","isLinked":false}},"elements":[{"id":"7f0f94af","elType":"widget","settings":{"section_image":"","image":{"id":158,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/circle2-1.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":"70"},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"3c0bec0a","elType":"widget","settings":{"section_editor":"","editor":"<p>consectetur adipiscing elit. Sed neque mauris, porta id arcu ac, sagittis auctor ante monke di paserstion.<\/p>","section_style":"","align":"center","text_color":"#353535","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"2.1"},"_section_style":"","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":"14"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"6e3a1a7b","elType":"widget","settings":{"section_title":"","title":"JOHN ELOWER","link":{"is_external":"","url":""},"size":"large","header_size":"h3","align":"center","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":17},"typography_font_weight":"600","typography_text_transform":"uppercase","_section_style":"","_padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"77e8e434","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"outset","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":"50","spread":0,"inset":"","color":"rgba(15,15,43,0.66)"},"section_typo":"","section_advanced":"","margin":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true},"padding":{"unit":"px","top":"60","right":"30","bottom":"60","left":"30","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100","margin_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"padding_tablet":{"unit":"px","top":"30","right":"20","bottom":"30","left":"20","isLinked":false}},"elements":[{"id":"16bf28c4","elType":"widget","settings":{"section_image":"","image":{"id":159,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/circle3-1.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":"70"},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"132a7940","elType":"widget","settings":{"section_editor":"","editor":"<p>Nulla faucibus commodo Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.<\/p>","section_style":"","align":"center","text_color":"#353535","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"2.1"},"_section_style":"","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":"14"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"52e4183e","elType":"widget","settings":{"section_title":"","title":"victor garberl","link":{"is_external":"","url":""},"size":"large","header_size":"h3","align":"center","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":17},"typography_font_weight":"600","typography_text_transform":"uppercase","_section_style":"","_padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"7d8b30ee","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":968},"section_background":"","background_background":"classic","background_image":{"id":160,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/cover-pic-1.png"},"background_repeat":"no-repeat","background_size":"cover","background_overlay_title":"","background_overlay_background":"classic","background_overlay_color":"#1b1b24","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"0","bottom":"190","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","padding_tablet":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"heading_visibility":""},"elements":[{"id":"42463da8","elType":"column","settings":{"_column_size":100,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"5939676d","elType":"widget","settings":{"section_icon":"","icon":"fa fa-diamond","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"70"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_padding":{"unit":"px","top":"0130","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"icon"},{"id":"6fc7bac6","elType":"widget","settings":{"section_editor":"","editor":"\"My day is usually quite hectic. Before I used Taskraft I had to juggle all my various tasks in my mind throughout the day.\nTaskraft helped me get more organized, and now I simply get more done.\"","section_style":"","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"27"},"typography_font_family":"Roboto","typography_font_weight":"300","typography_line_height":{"unit":"em","size":1.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_font_size_tablet":{"unit":"px","size":"25"},"typography_font_size_mobile":{"unit":"px","size":"20"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_tablet":{"unit":"px","top":"0","right":"50","bottom":"0","left":"50","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"4a75612","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":"1140"},"height":"min-height","custom_height":{"unit":"px","size":"650"},"section_background":"","background_background":"classic","background_image":{"id":156,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/smart-watch1-1.png"},"background_position":"bottom left","background_repeat":"no-repeat","background_overlay_title":"","background_overlay_background":"classic","background_overlay_opacity":{"unit":"px","size":1},"section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"100","right":"0","bottom":"0","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"padding_tablet":{"unit":"px","top":"70","right":"0","bottom":"650","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"650","left":"0","isLinked":false},"heading_visibility":""},"elements":[{"id":"e88953d","elType":"column","settings":{"_column_size":100,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"eb3c090","elType":"widget","settings":{"section_title":"","title":"Our Services","link":{"is_external":"","url":""},"size":"large","header_size":"h3","align":"center","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"31"},"typography_font_family":"Montserrat Alternates","_section_style":"","_padding":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"87e0cb0","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":912},"gap":"wider","structure":"20","section_background":"","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","responsive_description":"","column_position_inner":"middle","content_position_inner":"","heading_visibility":""},"elements":[{"id":"85f77bd","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","background_background":"classic","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"8911f2d","elType":"widget","settings":{"section_icon":"","icon":"fa fa-calendar","link":{"is_external":"","url":""},"align":"left","section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"40"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center"},"elements":[],"widgetType":"icon"},{"id":"7ba9a8f","elType":"widget","settings":{"section_title":"","title":"Responsive design","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_family":"Roboto","typography_line_height":{"unit":"em","size":2},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"6d9a423","elType":"widget","settings":{"section_editor":"","editor":"<p>Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.<\/p>","section_style":"","text_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":"17"},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"1.8"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"a64979c","elType":"widget","settings":{"section_icon":"","icon":"fa fa-dropbox","link":{"is_external":"","url":""},"align":"left","section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"40"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_padding":{"unit":"px","top":"020","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"icon"},{"id":"ec5b192","elType":"widget","settings":{"section_title":"","title":"Device friendly theme","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_family":"Roboto","typography_line_height":{"unit":"em","size":2},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"af0e72d","elType":"widget","settings":{"section_editor":"","editor":"<p>Duis pulvinar arcu a ultrices monk dapibus. Etiam suscipit sed quam vel auctor.<\/p>","section_style":"","text_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":"17"},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"1.8"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"772c196","elType":"column","settings":{"_column_size":50,"_inline_size":null,"section_style":"","border_radius":{"unit":"px","top":"0","right":"50","bottom":"0","left":"0","isLinked":false},"box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"b358fdc","elType":"widget","settings":{"section_icon":"","icon":"fa fa-commenting-o","link":{"is_external":"","url":""},"align":"left","section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"40"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"icon"},{"id":"98810fb","elType":"widget","settings":{"section_title":"","title":"One click demo import","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_family":"Roboto","typography_line_height":{"unit":"em","size":2},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"c3218cb","elType":"widget","settings":{"section_editor":"","editor":"<p>consectetur adipiscing elit. Sed neque mauris, porta id arcu ac, sagittis auctor ante.<\/p>","section_style":"","text_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":"17"},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"1.8"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"4158bc2","elType":"widget","settings":{"section_icon":"","icon":"fa fa-envelope-o","link":{"is_external":"","url":""},"align":"left","section_style_icon":"","primary_color":"#2185f5","size":{"unit":"px","size":"40"},"icon_padding":{"unit":"em","size":""},"section_hover":"","_section_style":"","_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_tablet":"center","align_mobile":"center","_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"icon"},{"id":"ddd912b","elType":"widget","settings":{"section_title":"","title":"Awesome theme support","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_family":"Roboto","typography_line_height":{"unit":"em","size":2},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"5d23078","elType":"widget","settings":{"section_editor":"","editor":"<p>blandit porta, viverra nec metus. Maecenas in magna ullamcorper dolor commodo.<\/p>","section_style":"","text_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":"17"},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":"1.8"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"center","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"473809b5","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"section_background":"","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"_section_responsive":"","responsive_description":"","heading_visibility":""},"elements":[{"id":"238753a7","elType":"column","settings":{"_column_size":100,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"4c22f290","elType":"widget","settings":{"section_title":"","title":"Our clients","link":{"is_external":"","url":""},"size":"large","align":"center","section_title_style":"","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"40"},"typography_font_family":"Montserrat Alternates","_section_style":"","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"3bd6d0d","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"gap":"wider","structure":"40","section_background":"","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","responsive_description":"","column_position_inner":"middle","content_position_inner":"","heading_visibility":""},"elements":[{"id":"10ebb46","elType":"column","settings":{"_column_size":25,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"custom","screen_sm_width":"50","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"13e645b0","elType":"widget","settings":{"section_image":"","image":{"id":161,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/snycy.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":"100"},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"be60993","elType":"column","settings":{"_column_size":25,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"custom","screen_sm_width":"50","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"5091cc9","elType":"widget","settings":{"section_image":"","image":{"id":"60","url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/05\/x.venox_.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"b9fe444","elType":"column","settings":{"_column_size":25,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"custom","screen_sm_width":"50","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"45fcccae","elType":"widget","settings":{"section_image":"","image":{"id":162,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/quest.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"4899e9d2","elType":"column","settings":{"_column_size":25,"_inline_size":null,"section_style":"","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"custom","screen_sm_width":"50","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"51bce4e","elType":"widget","settings":{"section_image":"","image":{"id":"61","url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/05\/geo.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true},{"id":"ff18314","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"gap":"wider","structure":"40","section_background":"","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","responsive_description":"","column_position_inner":"middle","content_position_inner":"","heading_visibility":""},"elements":[{"id":"61227cbd","elType":"column","settings":{"_column_size":25,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"custom","screen_sm_width":"50","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"6c6c4bf","elType":"widget","settings":{"section_image":"","image":{"id":"58","url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/05\/madrin.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"2a5d142b","elType":"column","settings":{"_column_size":25,"_inline_size":null,"section_style":"","border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"custom","screen_sm_width":"50","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"28ad6c0a","elType":"widget","settings":{"section_image":"","image":{"id":"67","url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/05\/digit.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"21b76899","elType":"column","settings":{"_column_size":25,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"custom","screen_sm_width":"50","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"746cf4e7","elType":"widget","settings":{"section_image":"","image":{"id":"65","url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/05\/mapmaster.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"3078e0f1","elType":"column","settings":{"_column_size":25,"_inline_size":null,"section_style":"","border_radius":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false},"box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"custom","screen_sm_width":"50","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"296ca8da","elType":"widget","settings":{"section_image":"","image":{"id":163,"url":"https:\/\/demo.themeegg.com\/themes\/builder-lite\/business\/wp-content\/uploads\/sites\/2\/2018\/06\/masso.png"},"align":"center","link":{"is_external":"","url":""},"section_style_image":"","space":{"unit":"%","size":100},"opacity":{"unit":"px","size":1},"section_style_caption":"","caption_typography_font_size":{"unit":"px","size":15},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","image_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"align_tablet":"center","align_mobile":"center","caption_typography_line_height_tablet":{"unit":"em","size":""},"caption_typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"67ce12cd","elType":"section","settings":{"section_layout":"","content_width":{"unit":"px","size":1140},"gap":"wider","structure":"30","section_background":"","background_background":"classic","background_color":"#2185f5","background_overlay_title":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"60","right":"0","bottom":"50","left":"0","isLinked":false},"_section_responsive":"","responsive_description":"","padding_tablet":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false},"heading_visibility":""},"elements":[{"id":"3f20ede9","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"30","left":"30","isLinked":false}},"elements":[{"id":"231bfc54","elType":"widget","settings":{"section_title":"","title":"About us","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"21"},"typography_font_family":"Montserrat Alternates","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"left","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"766b6be6","elType":"widget","settings":{"section_editor":"","editor":"<p>Phasellus sodal dictum dolor quis fringilla. Nunc accumsan velit sit amet enim maximus solsodales.<\/p>","section_style":"","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"15"},"typography_font_weight":"100","typography_line_height":{"unit":"em","size":"1.9"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"left","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"7142892a","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"30","left":"30","isLinked":false}},"elements":[{"id":"11097a72","elType":"widget","settings":{"section_title":"","title":"Our mission","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"21"},"typography_font_family":"Montserrat Alternates","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"left","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"77626879","elType":"widget","settings":{"section_editor":"","editor":"<p>Etiam fringilla lobortis risus, sed accumsan enim rutrum vel. Aenean iaculis magna libero, at blandit augue rhoncus sed.<\/p>","section_style":"","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"15"},"typography_font_weight":"100","typography_line_height":{"unit":"em","size":"1.9"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","align_mobile":"left","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"3388c6d2","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100","padding_mobile":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"6a42e1df","elType":"widget","settings":{"section_title":"","title":"Our offer","link":{"is_external":"","url":""},"size":"large","header_size":"h3","section_title_style":"","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"21"},"typography_font_family":"Montserrat Alternates","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"672a2340","elType":"widget","settings":{"section_icon":"","icon_list":[{"text":"sed accumsan enim rutrum ","icon":"fa fa-dot-circle-o","link":{"url":"","is_external":"","nofollow":""},"_id":"315258c"},{"text":"Etiam fringilla lobortis ","icon":"fa fa-dot-circle-o","link":{"url":"","is_external":"","nofollow":""},"_id":"c591841"},{"text":"Aenean iaculis magna ","icon":"fa fa-dot-circle-o","link":{"url":"","is_external":"","nofollow":""},"_id":"29a6a11"}],"section_icon_style":"","icon_color":"#ffffff","icon_size":{"unit":"px","size":"15"},"section_text_style":"","text_indent":{"unit":"px","size":12},"text_color":"#ffffff","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":"15"},"icon_typography_font_weight":"300","icon_typography_line_height":{"unit":"em","size":"2"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","icon_typography_line_height_tablet":{"unit":"em","size":""},"icon_typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false},{"id":"70c8de03","elType":"section","settings":{"gap":"no","custom_height":{"unit":"px","size":""},"content_position":"middle","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"100","right":"25","bottom":"100","left":"25","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"20","bottom":"50","left":"20","isLinked":false}},"elements":[{"id":"3b20fec4","elType":"column","settings":{"_column_size":100},"elements":[{"id":"795b6c1e","elType":"widget","settings":{"title":"Frequently Asked Questions","align":"center","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":45},"typography_font_weight":"600","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_mobile":{"unit":"px","size":35}},"elements":[],"widgetType":"heading"},{"id":"58441914","elType":"section","settings":{"gap":"no","content_position":"top","structure":"20","padding":{"unit":"px","top":"55","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2845337f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin":{"unit":"px","top":"0","right":"25","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"167ec008","elType":"widget","settings":{"title":"Can I edit the files ?","header_size":"h4","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"1397c417","elType":"widget","settings":{"editor":"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<\/p>","text_color":"#0020b2","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2},"_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"_border_color":"#000000"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"37a4ce76","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"25","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5db089cf","elType":"widget","settings":{"title":"Is it Layered ?","header_size":"h4","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"1e894adb","elType":"widget","settings":{"editor":"<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.<\/p>","text_color":"#0020b2","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2},"_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"_border_color":"#000000"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"64b77276","elType":"section","settings":{"gap":"no","content_position":"top","structure":"20","padding":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2259ae68","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin":{"unit":"px","top":"-60","right":"25","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"-60","right":"0","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"98fda47","elType":"widget","settings":{"title":"How can I edit the masks ?<span style=\"font-style: inherit;\"><\/span><br>","header_size":"h4","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"65f6192e","elType":"widget","settings":{"editor":"<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.<\/p>","text_color":"#0020b2","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2},"_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"_border_color":"#000000"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"1a1db761","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"25","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"758d3391","elType":"widget","settings":{"title":"What do I need to open the files ?<span style=\"font-style: inherit;\"><\/span><br>","header_size":"h4","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"335c86d4","elType":"widget","settings":{"editor":"<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words<\/p>","text_color":"#0020b2","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2},"_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"_border_color":"#000000"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"4dc45e77","elType":"section","settings":{"gap":"no","content_position":"top","structure":"20","padding":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"5ae6aa03","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin":{"unit":"px","top":"0","right":"25","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"dbb13ea","elType":"widget","settings":{"title":"How can I edit smart objects ?<span style=\"font-style: inherit;\"><\/span><br>","header_size":"h4","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"63b7bf19","elType":"widget","settings":{"editor":"<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation<\/p>","text_color":"#0020b2","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2},"_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"_border_color":"#000000"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"6a267395","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"25","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4001efbf","elType":"widget","settings":{"title":"Is the font free ?","header_size":"h4","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"7e27dd21","elType":"widget","settings":{"editor":"<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur<\/p>","text_color":"#0020b2","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2},"_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"_border_color":"#000000"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0.4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_e63d2d0c66ba4b799c47127704e445ec]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/kB4U67tiQLA?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_e63d2d0c66ba4b799c47127704e445ec]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1526539937]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_e9f86bd68d206a4f63f4f9339cbf9017]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="640" height="480" src="https://www.youtube.com/embed/LFkrBtQOOH4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_e9f86bd68d206a4f63f4f9339cbf9017]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1526542113]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_13e4e7e5b38e99a7f959a8de358f0dee]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/cZIJ86qtXV4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_13e4e7e5b38e99a7f959a8de358f0dee]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1526542308]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>About Us</title>
 		<link>https://demo.themeegg.com/themes/builder-lite/business/about-us/</link>
 		<pubDate>Thu, 17 May 2018 06:24:18 +0000</pubDate>
@@ -3007,149 +3427,6 @@ As a new WordPress user, you should go to <a href="https://demo.themeegg.com/the
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>builder-lite</title>
-		<link>https://demo.themeegg.com/themes/builder-lite/business/2018/05/24/builder-lite/</link>
-		<pubDate>Thu, 24 May 2018 04:27:30 +0000</pubDate>
-		<dc:creator><![CDATA[builder_lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/builder-lite/</guid>
-		<description></description>
-		<content:encoded><![CDATA[header .custom-logo-link img {
-    width: 250px;
-    height: auto;
-     
-}
-header #logo-alt img {
-    height: auto;
-	max-height:auto;
-    margin-top: 15px;
-}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>146</wp:post_id>
-		<wp:post_date><![CDATA[2018-05-24 04:27:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-05-24 04:27:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[builder-lite]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>https://demo.themeegg.com/themes/builder-lite/business/2018/05/17/hello-world-2/</link>
-		<pubDate>Thu, 17 May 2018 04:36:34 +0000</pubDate>
-		<dc:creator><![CDATA[builder_lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>147</wp:post_id>
-		<wp:post_date><![CDATA[2018-05-17 04:36:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-05-17 04:36:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2018-05-17 04:36:34]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2018-05-17 04:36:34]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow\">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
-		<title>Sample Page</title>
-		<link>https://demo.themeegg.com/themes/builder-lite/business/sample-page-2/</link>
-		<pubDate>Thu, 17 May 2018 04:36:34 +0000</pubDate>
-		<dc:creator><![CDATA[builder_lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
-...or something like this:
-
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
-As a new WordPress user, you should go to <a href="https://demo.themeegg.com/themes/builder-lite/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>148</wp:post_id>
-		<wp:post_date><![CDATA[2018-05-17 04:36:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-05-17 04:36:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>https://demo.themeegg.com/themes/builder-lite/business/2018/06/27/hello-world/</link>
-		<pubDate>Wed, 27 Jun 2018 10:27:08 +0000</pubDate>
-		<dc:creator><![CDATA[builder_lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/business/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.themeegg.com/themes/builder-lite/">Builder Lite Sites</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-27 10:27:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-27 10:27:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>http://demo.themeegg.com/themes/builder-lite/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2018-06-27 10:27:08]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2018-06-27 10:27:08]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
 		<title>Elementor Page builder support</title>
 		<link>https://demo.themeegg.com/themes/builder-lite/business/2018/05/17/elementor-page-builder-support/</link>
 		<pubDate>Thu, 17 May 2018 06:41:41 +0000</pubDate>
@@ -3241,6 +3518,79 @@ Builder Lite is a WordPress theme built for the most popular drag and drops page
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Hello world!</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/2018/05/17/hello-world-2/</link>
+		<pubDate>Thu, 17 May 2018 04:36:34 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>147</wp:post_id>
+		<wp:post_date><![CDATA[2018-05-17 04:36:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-05-17 04:36:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2018-05-17 04:36:34]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2018-05-17 04:36:34]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow\">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Sample Page</title>
+		<link>https://demo.themeegg.com/themes/builder-lite/business/sample-page-2/</link>
+		<pubDate>Thu, 17 May 2018 04:36:34 +0000</pubDate>
+		<dc:creator><![CDATA[builder_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeegg.com/themes/builder-lite/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="https://demo.themeegg.com/themes/builder-lite/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>148</wp:post_id>
+		<wp:post_date><![CDATA[2018-05-17 04:36:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-05-17 04:36:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
