@@ -42,7 +42,7 @@
                     </span>
                 <span class="meta-item">
                         <i class="fa fa-commenting"></i><a class="post-comments-url"
-                                                           href="<?php the_permalink() ?>#comments"><?php comments_number( '0', '1', '%' ); ?><?php esc_html_e( 'Comments', 'builder-lite' ); ?></a>
+                                                           href="<?php the_permalink() ?>#comments"><?php comments_number( '0', '1', '%' ); ?> <?php esc_html_e( 'Comments', 'builder-lite' ); ?></a>
                     </span>
             </div>
         </div>
