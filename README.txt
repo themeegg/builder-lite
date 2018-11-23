@@ -1,8 +1,8 @@
 === Builder Lite===
 Author: Themeegg
 Requires at least: WordPress 4.5 
-Tested up to: WordPress 4.9.8
-Version: 1.0.5
+Tested up to: WordPress 5.0
+Version: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: custom-background, custom-menu, custom-logo, featured-images, flexible-header, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, one-column, two-columns, three-columns, left-sidebar, right-sidebar, e-commerce, blog
@@ -96,6 +96,11 @@ Banner Image
 
 
 == Changelog ==
+= 1.1.0 - 2018/11/23 =
+    * Added - Banner enable/disable with custom navigation bar color on disable
+    * Added - Particle js on banner with custom back ground color
+    * Added - Fully customizable blog page
+    * Added - Post listing style on blog page
 = 1.0.5 - 2018/10/11 =
 	* Fix - Minor css design issue fixed
 = 1.0.4 - 2018/06/26 =

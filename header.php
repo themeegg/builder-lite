@@ -45,19 +45,18 @@ $background_type = esc_attr(get_theme_mod('bul_home_background_radio', 'image'))
 $background_color = sanitize_hex_color(get_theme_mod('bul_home_background_color', '#555555'));
 $background_image_url = esc_url(get_theme_mod('bul_theme_home_background_image', get_template_directory_uri() . '/assets/images/default-banner.jpg'));
 /* background selection */
-
+$hide_banner = get_theme_mod('bul_disable_banner');
 $custom_css = 'background-color:' . $background_color;
 $section_class = 'home-color-section';
 $section_id = '';
 if ($background_type != 'color') {
-
     $custom_css = '';
     $section_class = 'style1';
     $section_id = 'parallax-bg';
-
 }
 ?>
 <div id="home" class="elementor-menu-anchor"></div>
+<?php if(!$hide_banner){?>
 <section
     <?php
     echo !empty($section_id) ? 'id="' . esc_attr($section_id) . '" ' : ' ';
@@ -65,20 +64,19 @@ if ($background_type != 'color') {
     echo !empty($custom_css) ? 'style="' . esc_html($custom_css) . '"' : ' ';
 
     ?>>
-    <div id="slider-inner" class="home-bg-item"
-
-        <?php if (true === get_theme_mod('bul_home_parallax', true)) { ?>
+    
+    <div id="slider-inner" class="home-bg-item"<?php 
+       
+     if (true === get_theme_mod('bul_home_parallax', true)) { ?>
             data-parallax="scroll"
             data-image-src="<?php echo esc_url(get_theme_mod('bul_theme_home_background_image', get_template_directory_uri() . '/assets/images/default-banner.jpg')); ?>"
         <?php } else {
             ?>
             style="background:url('<?php echo esc_url(get_theme_mod('bul_theme_home_background_image')); ?>') no-repeat;"
         <?php } ?>>
-
-
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-12" style ="<?php echo ($background_type == 'Jsparticles') ? 'pointer-events: none;': ''; ?>">
                     <div class="slide-bg-section">
                         <div class="slide-bg-text">
                             <h1 class="wow fadeInDow center"
@@ -95,7 +93,7 @@ if ($background_type != 'color') {
                             <p class="wow fadeInUp center"
                                data-wow-duration="2s"
                                data-wow-delay="1s"><?php echo esc_attr(get_theme_mod('bul_home_subheading_text', get_bloginfo('description', 'display'))); ?></p>
-                            <div class="slide-buttons center">
+                            <div class="slide-buttons center" style ="<?php echo ($background_type == 'Jsparticles') ? 'pointer-events: auto;': ''; ?>">
                                 <?php
                                 $home_button_text = esc_attr(get_theme_mod('bul_home_button_text'));
                                 if (!empty($home_button_text)) {
@@ -131,4 +129,5 @@ if ($background_type != 'color') {
         </div>
 
 </section>
-<?php } ?>
+ 
+<?php  } }  ?>

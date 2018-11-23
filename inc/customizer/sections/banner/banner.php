@@ -1,5 +1,20 @@
 <?php
 // Banner Settings
+if(!function_exists('bul_enable_banner')){
+    function bul_enable_banner(){
+        $disable_banner = get_theme_mod('bul_disable_banner');
+        $is_enable_banner = ($disable_banner) ? false : true;
+        return $is_enable_banner;
+    }
+}
+if(!function_exists('bul_enable_navigation_color')){
+    function bul_enable_navigation_color(){
+        $enable_banner_color = get_theme_mod('bul_disable_banner');
+        $is_enable_banner_color = ($enable_banner_color) ? true : false;
+        return $is_enable_banner_color;
+    }
+}
+
 $wp_customize->add_section(
     'builder_lite_general_settings',
     array(
@@ -8,6 +23,50 @@ $wp_customize->add_section(
         'theme_supports' => '',
         'title' => __('Banner Settings', 'builder-lite')
     )
+);
+$wp_customize->add_setting(
+    'bul_disable_banner',
+    array(
+        'type' => 'theme_mod',
+        'default' => false,
+        'sanitize_callback' => 'builder_lite_sanitize_checkbox_selection'
+    )
+);
+/**
+ * banner enable/disable
+ *
+ * @since 1.1.0
+ */
+$wp_customize->add_control(
+    'bul_disable_banner',
+    array(
+        'settings' => 'bul_disable_banner',
+        'section' => 'builder_lite_general_settings',
+        'type' => 'checkbox',
+        'label' => __('Disable Banner', 'builder-lite'),
+        'description' => __('Disable the banner section for builder lite', 'builder-lite'),
+    )
+);
+$wp_customize->add_setting(
+    'bul_navigation_background_color',
+    array(
+        'type' => 'theme_mod',
+        'default' => '',
+        'sanitize_callback' => 'sanitize_hex_color'
+    )
+);
+
+$wp_customize->add_control(
+    new WP_Customize_Color_Control(
+        $wp_customize,
+        'bul_navigation_background_color',
+        array(
+            'label' => __('Select Background Color', 'builder-lite'),
+            'description' => __('This setting will add background color for navigatoin bar while banner is disabled', 'builder-lite'),
+            'section' => 'builder_lite_general_settings',
+            'settings' => 'bul_navigation_background_color',
+            'active_callback' => 'bul_enable_navigation_color',
+        ))
 );
 
 // Background selection
@@ -26,12 +85,16 @@ $wp_customize->add_control(
         'settings' => 'bul_home_background_radio',
         'section' => 'builder_lite_general_settings',
         'type' => 'radio',
-        'label' => __('Choose Home Background Color or Background Image:', 'builder-lite'),
+        'label' => __('Choose Home Background Color, Background Image or js particles:', 'builder-lite'),
         'description' => __('This setting will change the Home background area.', 'builder-lite'),
         'choices' => array(
             'color' => __('Background Color', 'builder-lite'),
             'image' => __('Background Image', 'builder-lite'),
+            'Jsparticles' => __('Js Particles', 'builder-lite'),
+
         ),
+        'active_callback' => 'bul_enable_banner',
+
     )
 );
 
@@ -51,9 +114,11 @@ $wp_customize->add_control(
         'bul_home_background_color',
         array(
             'label' => __('Select Background Color', 'builder-lite'),
-            'description' => __('This setting will add background color if Background Color was selected above.', 'builder-lite'),
+            'description' => __('This setting will add background color for both background color and particlejs option.', 'builder-lite'),
             'section' => 'builder_lite_general_settings',
             'settings' => 'bul_home_background_color',
+            'active_callback' => 'bul_enable_banner',
+
         ))
 );
 
@@ -74,7 +139,8 @@ $wp_customize->add_control(
             'settings' => 'bul_theme_home_background_image',
             'section' => 'builder_lite_general_settings',
             'label' => __('Home Background Image', 'builder-lite'),
-            'description' => __('This setting will add background image if Background Image was selected above.', 'builder-lite')
+            'description' => __('This setting will add background image if Background Image was selected above.', 'builder-lite'),
+            'active_callback' => 'bul_enable_banner',
         )
     )
 );
@@ -97,6 +163,7 @@ $wp_customize->add_control(
         'type' => 'textarea',
         'label' => __('Heading Text', 'builder-lite'),
         'description' => __('heading for the home section', 'builder-lite'),
+        'active_callback' => 'bul_enable_banner',
     )
 );
 
@@ -125,6 +192,7 @@ $wp_customize->add_control(
         'type' => 'textarea',
         'label' => __('SubHeading Text', 'builder-lite'),
         'description' => __('Subheading for the home section', 'builder-lite'),
+        'active_callback' => 'bul_enable_banner',
     )
 );
 
@@ -154,6 +222,7 @@ $wp_customize->add_control(
         'type' => 'textbox',
         'label' => __('Button Text', 'builder-lite'),
         'description' => __('Button text for the home section', 'builder-lite'),
+        'active_callback' => 'bul_enable_banner',
     )
 );
 
@@ -176,6 +245,7 @@ $wp_customize->add_control(
         'type' => 'textbox',
         'label' => __('Button URL', 'builder-lite'),
         'description' => __('Button URL for the home section, you can paste youtube or vimeo video url also', 'builder-lite'),
+        'active_callback' => 'bul_enable_banner',
     )
 );
 // Parallax Scroll for background image
@@ -196,6 +266,7 @@ $wp_customize->add_control(
         'type' => 'checkbox',
         'label' => __('Enable Parallax Scroll:', 'builder-lite'),
         'description' => __('Choose whether to show a parallax scroll feature for the Home Background image', 'builder-lite'),
+        'active_callback' => 'bul_enable_banner',
     )
 );
 
@@ -217,6 +288,7 @@ $wp_customize->add_control(
         'type' => 'checkbox',
         'label' => __('Enable Dark Overlay:', 'builder-lite'),
         'description' => __('Choose whether to show a dark overlay over background image', 'builder-lite'),
+        'active_callback' => 'bul_enable_banner',
     )
 );
 
@@ -238,5 +310,6 @@ $wp_customize->add_control(
         'type' => 'checkbox',
         'label' => __('Use this for Blog Homepage:', 'builder-lite'),
         'description' => __('Check this if you are having a Blog as front page', 'builder-lite'),
+        'active_callback' => 'bul_enable_banner',
     )
 );

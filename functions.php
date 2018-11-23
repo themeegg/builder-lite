@@ -244,6 +244,16 @@ function builder_lite_scripts()
     wp_enqueue_script('jquery-magnific', get_template_directory_uri() . '/assets/vendor/magnific-popup/jquery.magnific-popup.js', array(), '1.1.0', true);
     wp_enqueue_script('builder-lite-script', get_template_directory_uri() . '/assets/js/builder-lite-main.js', array('jquery'), '1.0.0', true);
     wp_enqueue_script('html5shiv', get_template_directory_uri() . '/assets/js/html5shiv.js', array(), '3.7.3');
+    /**
+     * particle js
+     *
+     * @since 1.1.0
+     */
+    wp_register_script('particlejs', 'https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js', true);
+    $background_type = esc_attr(get_theme_mod('bul_home_background_radio', 'image'));
+    if ($background_type == 'Jsparticles'){
+        wp_enqueue_script('particlejs'); 
+    }
     wp_script_add_data('html5shiv', 'conditional', 'lt IE 9');
 
     wp_enqueue_script('respond', get_template_directory_uri() . '/assets/js/respond.js');

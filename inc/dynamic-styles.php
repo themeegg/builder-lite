@@ -6,7 +6,7 @@
 
 function builder_lite_dynamic_css_stylesheet() {
 
-
+    $css = '';
 	$footer_bg_color      = sanitize_hex_color( get_theme_mod( 'bul_footer_bg_color', '#191616' ) );
 	$footer_content_color = sanitize_hex_color( get_theme_mod( 'bul_footer_content_color', '#ffffff' ) );
 	$footer_links_color   = sanitize_hex_color( get_theme_mod( 'bul_footer_links_color', '#b3b3b3' ) );
@@ -19,6 +19,8 @@ function builder_lite_dynamic_css_stylesheet() {
 
 	//contact form color
 
+    $disable_banner = get_theme_mod('bul_disable_banner');
+    
 
 	$css = '
     footer#footer {        
@@ -58,7 +60,22 @@ function builder_lite_dynamic_css_stylesheet() {
     ';
 	}
 
+    $no_banner_navigation_color = sanitize_hex_color(get_theme_mod('bul_navigation_background_color', '#fff'));
+     if ($no_banner_navigation_color && $disable_banner) {
+        $css .= 'header.menu-wrapper{
+        background-color:' . $no_banner_navigation_color . ';
+        } ';
+    }
 
+    //banner background on particle js
+    $background_type = esc_attr(get_theme_mod('bul_home_background_radio'));
+    $jsparticles_background_color = sanitize_hex_color(get_theme_mod('bul_home_background_color'));
+    if ($background_type == 'Jsparticles'){
+        $css .= 'particles-js{
+        background-color:' . $jsparticles_background_color . ';
+        } ';
+    }
+    
 	if ( false === get_theme_mod( 'bul_sticky_menu', true ) ) {
 		$css .= '        
          header.menu-wrapper.fixed{ 
