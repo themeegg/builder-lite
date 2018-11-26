@@ -101,6 +101,7 @@ Banner Image
     * Added - Particle js on banner with custom back ground color
     * Added - Fully customizable blog page
     * Added - Post listing style on blog page
+
 = 1.0.5 - 2018/10/11 =
 	* Fix - Minor css design issue fixed
 = 1.0.4 - 2018/06/26 =

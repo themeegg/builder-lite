@@ -13,7 +13,6 @@
  */
 
 get_header(); ?>
-
 <div id="primary" class="content-area">
 	<div id="main" class="site-main" role="main">	
 		<?php builder_lite_get_page_title(true,false,false,false); ?>
@@ -91,8 +90,5 @@ get_header(); ?>
 		</div>
 	</div>
 </div>
-
-
 <?php
-
 get_footer();
