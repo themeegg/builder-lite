@@ -65,22 +65,23 @@ if (is_front_page() && !is_home()) {
              *
              * @since 1.1.0
              */
-            if ($background_type == 'Jsparticles'){
+            if ($background_type == 'jsparticles'){
                 ?>
                 <div id="particles-js" style="background-color: <?php echo $background_color;?>; "></div><?php            
             }
             ?>
             <div id="slider-inner" class="home-bg-item"<?php 
+
                 if (true === get_theme_mod('bul_home_parallax', true)) { ?>
                     data-parallax="scroll"
-                    data-image-src="<?php echo esc_url(get_theme_mod('bul_theme_home_background_image', get_template_directory_uri() . '/assets/images/default-banner.jpg')); ?>" style = "<?php echo ($background_type == 'Jsparticles') ? 'pointer-events: none;': ''; ?>"<?php 
+                    data-image-src="<?php echo esc_url(get_theme_mod('bul_theme_home_background_image', get_template_directory_uri() . '/assets/images/default-banner.jpg')); ?>" style = "<?php echo ($background_type == 'jsparticles') ? 'pointer-events: none;': ''; ?>"<?php 
                 }else {
                     ?>
-                    style="background:url('<?php echo esc_url(get_theme_mod('bul_theme_home_background')); ?>') no-repeat; "<?php 
+                    style="background:url('<?php echo esc_url(get_theme_mod('bul_theme_home_background_image')); ?>') no-repeat; "<?php 
                 }?>>
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12" style ="<?php echo ($background_type == 'Jsparticles') ? 'pointer-events: none;': ''; ?>">
+                        <div class="col-md-12" style ="<?php echo ($background_type == 'jsparticles') ? 'pointer-events: none;': ''; ?>">
                             <div class="slide-bg-section">
                                 <div class="slide-bg-text">
                                     <h1 class="wow fadeInDow center"
@@ -98,7 +99,7 @@ if (is_front_page() && !is_home()) {
                                        data-wow-duration="2s"
                                        data-wow-delay="1s"><?php echo esc_attr(get_theme_mod('bul_home_subheading_text', get_bloginfo('description', 'display'))); ?>
                                     </p>
-                                    <div class="slide-buttons center" style ="<?php echo ($background_type == 'Jsparticles') ? 'pointer-events: auto;': ''; ?>">
+                                    <div class="slide-buttons center" style ="<?php echo ($background_type == 'jsparticles') ? 'pointer-events: auto;': ''; ?>">
                                         <?php
                                         $home_button_text = esc_attr(get_theme_mod('bul_home_button_text'));
                                         if (!empty($home_button_text)) {

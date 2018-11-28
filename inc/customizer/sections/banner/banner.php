@@ -90,7 +90,7 @@ $wp_customize->add_control(
         'choices' => array(
             'color' => __('Background Color', 'builder-lite'),
             'image' => __('Background Image', 'builder-lite'),
-            'Jsparticles' => __('Js Particles', 'builder-lite'),
+            'jsparticles' => __('Banner Animation', 'builder-lite'),
 
         ),
         'active_callback' => 'bul_enable_banner',

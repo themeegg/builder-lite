@@ -1,3 +1,4 @@
+
 <?php
 /**
  * Builder Lite: Dynamic CSS Stylesheet
@@ -70,7 +71,7 @@ function builder_lite_dynamic_css_stylesheet() {
     //banner background on particle js
     $background_type = esc_attr(get_theme_mod('bul_home_background_radio'));
     $jsparticles_background_color = sanitize_hex_color(get_theme_mod('bul_home_background_color'));
-    if ($background_type == 'Jsparticles'){
+    if ($background_type == 'jsparticles'){
         $css .= 'particles-js{
         background-color:' . $jsparticles_background_color . ';
         } ';

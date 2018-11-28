@@ -111,7 +111,7 @@ if ( ! function_exists( 'builder_lite_sanitize_radio_pagebg_selection' ) ) :
 		$valid = array(
 			'color' => __( 'Background Color', 'builder-lite' ),
 			'image' => __( 'Background Image', 'builder-lite' ),
-			'Jsparticles' => __( 'Js Particles', 'builder-lite' ),
+			'jsparticles' => __( 'Banner Animation', 'builder-lite' ),
 		);
 
 		if ( array_key_exists( $input, $valid ) ) {
