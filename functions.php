@@ -251,7 +251,7 @@ function builder_lite_scripts()
      */
     wp_register_script('particlejs', 'https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js', true);
     $background_type = esc_attr(get_theme_mod('bul_home_background_radio', 'image'));
-    if ($background_type == 'jsparticles'){
+    if ($background_type == 'jsparticles' && is_front_page()){
         wp_enqueue_script('particlejs'); 
     }
     wp_script_add_data('html5shiv', 'conditional', 'lt IE 9');

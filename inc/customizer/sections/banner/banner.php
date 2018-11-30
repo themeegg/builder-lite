@@ -51,7 +51,7 @@ $wp_customize->add_setting(
     'bul_navigation_background_color',
     array(
         'type' => 'theme_mod',
-        'default' => '',
+        'default' => '#274bad',
         'sanitize_callback' => 'sanitize_hex_color'
     )
 );
@@ -114,7 +114,7 @@ $wp_customize->add_control(
         'bul_home_background_color',
         array(
             'label' => __('Select Background Color', 'builder-lite'),
-            'description' => __('This setting will add background color for both background color and particlejs option.', 'builder-lite'),
+            'description' => __('This setting will add background color for both background color and banner animation option.', 'builder-lite'),
             'section' => 'builder_lite_general_settings',
             'settings' => 'bul_home_background_color',
             'active_callback' => 'bul_enable_banner',

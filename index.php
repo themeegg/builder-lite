@@ -11,23 +11,24 @@
  *
  * @package builder lite
  */
-
 get_header(); ?>
-<div id="primary" class="content-area">
+<?php 
+	$post_display_style = get_theme_mod('bul_blog_listing_style', 'list');
+ ?>
+<div id="primary" class="content-area" style = "<?php echo ($post_display_style == 'grid') ? 'background-color: #dedede;' : '';?>">
 	<div id="main" class="site-main" role="main">	
 		<?php builder_lite_get_page_title(true,false,false,false); ?>
 		<div class="content-inner">
 			<div id="blog-section">
 			    <div class="container">
 			        <div class="row"><?php
-			        	$post_display_style = get_theme_mod('bul_blog_listing_style', 'list');
 			        	if($post_display_style == 'grid'){
 			        		$style_class = "blog-grid";
 			        	}else{
 			        		$style_class = "";
 			        	}
 			        	if('right'===esc_attr(get_theme_mod('bul_blog_sidebar','right'))) {?>
-							<div class="col-md-9 <?php echo $style_class; ?>"><?php
+							<div class="col-md-9 <?php echo $style_class; ?> " ><?php
 								if(have_posts() ) {									
 									while(have_posts() ) {
 										the_post();
@@ -50,7 +51,7 @@ get_header(); ?>
         					<div class="col-md-3">
         						<?php get_sidebar('sidebar-1'); ?>
               				</div>
-							<div class="col-md-9"><?php
+							<div class="col-md-9 <?php echo $style_class; ?>"><?php
 								if(have_posts() ) {									
 									while(have_posts() ) {
 										the_post();

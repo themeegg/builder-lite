@@ -76,7 +76,19 @@ function builder_lite_dynamic_css_stylesheet() {
         background-color:' . $jsparticles_background_color . ';
         } ';
     }
-    
+     if ($disable_banner) {
+        $css .= 'header.menu-wrapper{
+        position:relative;
+        } ';
+    }
+     $post_listing_style_blog = get_theme_mod('bul_blog_listing_style');
+    if($post_listing_style_blog == 'grid'){
+        $css .= '.blog-wrapper{
+        margin:10px 0px 0px 0px;
+        padding-right:10px; 
+        } ';
+    }
+
 	if ( false === get_theme_mod( 'bul_sticky_menu', true ) ) {
 		$css .= '        
          header.menu-wrapper.fixed{ 

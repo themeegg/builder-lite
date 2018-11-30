@@ -96,7 +96,7 @@ Banner Image
 
 
 == Changelog ==
-= 1.1.0 - 2018/11/28 =
+= 1.1.0 - 2018/11/30 =
     * Added - Banner enable/disable with custom navigation bar color on disable
     * Added - Particle js on banner with custom background color
     * Added - Fully customizable blog page
