@@ -83,20 +83,23 @@ Magnific Popup 1.1.0
     Copyright (c) 2016 Dmitry Semenov
     License: MIT
     http://dimsemenov.com/plugins/magnific-popup/
+
 Banner Image
     https://pixabay.com/en/travel-modern-company-industry-3294009/
-
    	Screenshot Images
     Licenses: CCO Public Domain
     http://pixabay.com/en/office-tax-business-finance-620822/
 
+Particle js
+    Copyright (c) 2016 npm, Inc.
+    License: MIT
+    https://www.npmjs.com/package/react-particles-js    
 
     Other custom js files are our own creation and is licensed under the same license as this theme.
     Other custom images are our own creation and is licensed under the same license as this theme.
 
-
 == Changelog ==
-= 1.1.0 - 2018/11/30 =
+= 1.1.0 - 2018/12/03 =
     * Added - Banner enable/disable with custom navigation bar color on disable
     * Added - Particle js on banner with custom background color
     * Added - Fully customizable blog page

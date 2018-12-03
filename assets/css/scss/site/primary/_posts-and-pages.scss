@@ -2,7 +2,6 @@
   /* Grid Fallback */
   display: flex;
   flex-wrap: wrap;
-  
   /* Supports Grid */
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -11,27 +10,29 @@
   margin-top:37px;
   margin-bottom:20px;
 }
-.blog-grid .blog-wrapper{
-background-color:white;
-border-radius: 5px;
 
-}
 .blog-grid .blog-wrapper{
-padding:0px;
+  background-color:white;
+  border-radius: 5px;
+}
+
+.blog-grid .blog-wrapper{
+  padding:0px;
 }
 
 .blog-grid .blog-wrapper .heading{
-padding-left:10px;
-padding-top:11px;
+  padding-left:15px;
+  padding-top:15px;
 }
 
 .blog-grid .meta-wrapper{
-padding-left:10px;
+padding-left:15px;
 }
 
 .blog-grid .blog-content{
-padding-left:10px;
+padding-left:15px;
 }
+
 .blog-grid .blog-wrapper .builder-btn{
-margin:10px;
+margin:15px;
 }
