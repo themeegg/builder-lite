@@ -83,6 +83,9 @@ function builder_lite_dynamic_css_stylesheet() {
         $css .= 'body.admin-bar header.menu-wrapper{
             top:0px;
         }';
+        $css .= '.menu-wrapper.elementor-menu-anchor.fixed{
+            top:32px;
+        }';
     }
      $post_listing_style_blog = get_theme_mod('bul_blog_listing_style');
     if($post_listing_style_blog == 'grid'){
