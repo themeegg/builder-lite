@@ -250,7 +250,8 @@ module.exports = function (grunt) {
 
     // Load NPM tasks to be used here
     grunt.loadNpmTasks('grunt-sass');
-     grunt.loadNpmTasks('grunt-rtlcss');
+    grunt.loadNpmTasks('grunt-phpcs');
+    grunt.loadNpmTasks('grunt-rtlcss');
     grunt.loadNpmTasks('grunt-postcss');
     grunt.loadNpmTasks('grunt-stylelint');
     grunt.loadNpmTasks('grunt-wp-i18n');

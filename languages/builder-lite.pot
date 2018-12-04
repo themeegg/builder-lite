@@ -1,26 +1,26 @@
-# Copyright (C) 2018 ThemeEgg
-# This file is distributed under the GNU General Public License v2 or later.
+# Copyright (C) 2018
+# This file is distributed under the same license as the  package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Builder Lite 1.0.4\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: themeeggofficial@gmail.com\n"
-"POT-Creation-Date: 2018-06-26 04:29:36+00:00\n"
+"POT-Creation-Date: 2018-12-04 12:30:59+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
-"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
 
-#: inc/customizer/customizer-sanatize.php:86
-#: inc/customizer/customizer-sanatize.php:131
+#: inc/customizer/customizer-sanatize.php:90
+#: inc/customizer/customizer-sanatize.php:136
 #: inc/customizer/sections/footer/footer.php:53
 msgid "3"
 msgstr ""
 
-#: inc/customizer/customizer-sanatize.php:87
-#: inc/customizer/customizer-sanatize.php:132
+#: inc/customizer/customizer-sanatize.php:91
+#: inc/customizer/customizer-sanatize.php:137
 #: inc/customizer/sections/footer/footer.php:54
 msgid "4"
 msgstr ""
@@ -80,11 +80,11 @@ msgstr ""
 msgid "Footer Column4"
 msgstr ""
 
-#: functions.php:310
+#: functions.php:320
 msgid "Search here"
 msgstr ""
 
-#: functions.php:312
+#: functions.php:322
 msgid "Search"
 msgstr ""
 
@@ -92,7 +92,8 @@ msgstr ""
 msgid "Builder Lite Options"
 msgstr ""
 
-#. Theme Name of the plugin/theme
+#: inc/admin/class-builder-lite-admin-settings.php:102
+#: inc/admin/view-general.php:19
 msgid "Builder Lite"
 msgstr ""
 
@@ -258,123 +259,161 @@ msgstr ""
 msgid "Left"
 msgstr ""
 
-#: inc/customizer/customizer-sanatize.php:108
-#: inc/customizer/sections/banner/banner.php:32
+#: inc/customizer/customizer-sanatize.php:66
+#: inc/customizer/sections/blog/blog.php:35
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer-sanatize.php:67
+#: inc/customizer/sections/blog/blog.php:64
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/customizer-sanatize.php:112
+#: inc/customizer/sections/banner/banner.php:91
 #: inc/customizer/sections/page/page.php:32
 msgid "Background Color"
 msgstr ""
 
-#: inc/customizer/customizer-sanatize.php:109
-#: inc/customizer/sections/banner/banner.php:33
+#: inc/customizer/customizer-sanatize.php:113
+#: inc/customizer/sections/banner/banner.php:92
 #: inc/customizer/sections/page/page.php:33
 msgid "Background Image"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:9
+#: inc/customizer/customizer-sanatize.php:114
+#: inc/customizer/sections/banner/banner.php:93
+msgid "Banner Animation"
+msgstr ""
+
+#: inc/customizer/sections/banner/banner.php:24
 msgid "Banner Settings"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:29
-msgid "Choose Home Background Color or Background Image:"
+#: inc/customizer/sections/banner/banner.php:46
+msgid "Disable Banner"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:30
-msgid "This setting will change the Home background area."
+#: inc/customizer/sections/banner/banner.php:47
+msgid "Disable the banner section for builder lite"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:53
+#: inc/customizer/sections/banner/banner.php:64
+#: inc/customizer/sections/banner/banner.php:116
 #: inc/customizer/sections/page/page.php:53
 msgid "Select Background Color"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:54
+#: inc/customizer/sections/banner/banner.php:65
 msgid ""
-"This setting will add background color if Background Color was selected "
-"above."
+"This setting will add background color for navigatoin bar while banner is "
+"disabled"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:76
+#: inc/customizer/sections/banner/banner.php:88
+msgid "Choose Home Background Color, Background Image or js particles:"
+msgstr ""
+
+#: inc/customizer/sections/banner/banner.php:89
+msgid "This setting will change the Home background area."
+msgstr ""
+
+#: inc/customizer/sections/banner/banner.php:117
+msgid ""
+"This setting will add background color for both background color and banner "
+"animation option."
+msgstr ""
+
+#: inc/customizer/sections/banner/banner.php:141
 msgid "Home Background Image"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:77
+#: inc/customizer/sections/banner/banner.php:142
 msgid ""
 "This setting will add background image if Background Image was selected "
 "above."
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:86
+#: inc/customizer/sections/banner/banner.php:152
 msgid "ENTER YOUR HEADING HERE"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:98
+#: inc/customizer/sections/banner/banner.php:164
 msgid "Heading Text"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:99
+#: inc/customizer/sections/banner/banner.php:165
 msgid "heading for the home section"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:114
+#: inc/customizer/sections/banner/banner.php:181
 msgid "ENTER YOUR SUBHEADING HERE"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:126
+#: inc/customizer/sections/banner/banner.php:193
 msgid "SubHeading Text"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:127
+#: inc/customizer/sections/banner/banner.php:194
 msgid "Subheading for the home section"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:155
+#: inc/customizer/sections/banner/banner.php:223
 msgid "Button Text"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:156
+#: inc/customizer/sections/banner/banner.php:224
 msgid "Button text for the home section"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:177
+#: inc/customizer/sections/banner/banner.php:246
 msgid "Button URL"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:178
+#: inc/customizer/sections/banner/banner.php:247
 msgid ""
 "Button URL for the home section, you can paste youtube or vimeo video url "
 "also"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:197
+#: inc/customizer/sections/banner/banner.php:267
 #: inc/customizer/sections/page/page.php:98
 msgid "Enable Parallax Scroll:"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:198
+#: inc/customizer/sections/banner/banner.php:268
 msgid ""
 "Choose whether to show a parallax scroll feature for the Home Background "
 "image"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:218
+#: inc/customizer/sections/banner/banner.php:289
 #: inc/customizer/sections/page/page.php:119
 msgid "Enable Dark Overlay:"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:219
+#: inc/customizer/sections/banner/banner.php:290
 msgid "Choose whether to show a dark overlay over background image"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:239
+#: inc/customizer/sections/banner/banner.php:311
 msgid "Use this for Blog Homepage:"
 msgstr ""
 
-#: inc/customizer/sections/banner/banner.php:240
+#: inc/customizer/sections/banner/banner.php:312
 msgid "Check this if you are having a Blog as front page"
 msgstr ""
 
 #: inc/customizer/sections/blog/blog.php:30
 msgid "Select sidebar position:"
+msgstr ""
+
+#: inc/customizer/sections/blog/blog.php:60
+msgid "Select Post Listing Style in Blog Page"
+msgstr ""
+
+#: inc/customizer/sections/blog/blog.php:63
+msgid "List"
 msgstr ""
 
 #: inc/customizer/sections/colors/colors.php:17
@@ -930,45 +969,24 @@ msgid ""
 "searching can help."
 msgstr ""
 
-#: template-parts/content-page.php:24 template-parts/content.php:97
+#: template-parts/content-page.php:24 template-parts/content.php:106
 msgid "Pages:"
 msgstr ""
 
-#: template-parts/content.php:31
+#: template-parts/content.php:38
 msgid "Sticky Post"
 msgstr ""
 
-#: template-parts/content.php:45
+#: template-parts/content.php:52
 msgid "Comments"
 msgstr ""
 
-#: template-parts/content.php:65
+#: template-parts/content.php:74
 msgid "Categories:"
 msgstr ""
 
-#: template-parts/content.php:90
+#: template-parts/content.php:99
 msgid "Read more"
-msgstr ""
-
-#. Theme URI of the plugin/theme
-msgid "https://themeegg.com/downloads/builder-lite/"
-msgstr ""
-
-#. Description of the plugin/theme
-msgid ""
-"Builder Lite is a WordPress theme built for the most popular drag and drop "
-"page builder Elementor with multiple demos and one click demo import "
-"feature. If any support needed then hit the url "
-"https://themeegg.com/support-forum/ please check the demo on "
-"https://demo.themeegg.com/themes/builder-lite"
-msgstr ""
-
-#. Author of the plugin/theme
-msgid "ThemeEgg"
-msgstr ""
-
-#. Author URI of the plugin/theme
-msgid "https://themeegg.com"
 msgstr ""
 
 #: comments.php:35
