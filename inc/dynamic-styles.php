@@ -61,7 +61,7 @@ function builder_lite_dynamic_css_stylesheet() {
     ';
 	}
 
-    $no_banner_navigation_color = sanitize_hex_color(get_theme_mod('bul_navigation_background_color', '#fff'));
+    $no_banner_navigation_color = sanitize_hex_color(get_theme_mod('bul_navigation_background_color', '#274bad'));
      if ($no_banner_navigation_color && $disable_banner) {
         $css .= 'header.menu-wrapper{
         background-color:' . $no_banner_navigation_color . ';
@@ -80,6 +80,9 @@ function builder_lite_dynamic_css_stylesheet() {
         $css .= 'header.menu-wrapper{
         position:relative;
         } ';
+        $css .= 'body.admin-bar header.menu-wrapper{
+            top:0px;
+        }';
     }
      $post_listing_style_blog = get_theme_mod('bul_blog_listing_style');
     if($post_listing_style_blog == 'grid'){
