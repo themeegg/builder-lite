@@ -99,7 +99,7 @@ Particle js
     Other custom images are our own creation and is licensed under the same license as this theme.
 
 == Changelog ==
-= 1.1.0 - 2018/12/03 =
+= 1.1.0 - 2018/12/04 =
     * Added - Banner enable/disable with custom navigation bar color on disable
     * Added - Particle js on banner with custom background color
     * Added - Fully customizable blog page
